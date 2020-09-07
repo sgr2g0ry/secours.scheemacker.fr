@@ -1,0 +1,9 @@
+
+# https://developer.mozilla.org/fr/docs/Web/API/Service_Worker_API/Using_Service_Workers
+# http://makina-corpus.com/blog/metier/2016/decouvrir-le-service-worker
+
+http://manifest-validator.com/
+
+http://www.html5rocks.com/en/tutorials/appcache/beginner/
+
+TODO: use service-worker
